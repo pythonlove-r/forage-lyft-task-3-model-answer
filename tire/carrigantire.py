@@ -1,4 +1,4 @@
-from tire.tire import Battery
+from tire.tire import Tire
 from utils import add_years_to_date
 
 
